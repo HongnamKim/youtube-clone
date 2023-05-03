@@ -1,0 +1,91 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "jFzITOiIow-25BLMPnludLvrGa4",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "SS17GlfrUKOr-jxnHa-0r9_7CCE",
+      "id": "cJxZOU0QedM",
+      "snippet": {
+        "publishedAt": "2023-05-01T07:42:00Z",
+        "channelId": "UCXfFPHbEIw-LlxBQx7JSQsQ",
+        "title": "[내돈내산] 거의 모든 스마트폰 무선 충전하면서 자석으로 공중부양 거치하는 방법!!",
+        "description": "※ 내돈내산 / 해당 영상은 유료 광고나 제품 협찬이 포함되지 않았습니다\n\n✔ 쿠팡 링크를 통해 구매하면 내돈내산 콘텐츠에 큰 도움이 됩니다\n(쿠팡 파트너스 통해 일정액의 수수료를 제공받습니다)\n아무거나 구매하기 (쿠팡) - https://link.coupang.com/a/julWN\n\n🔗 NOMAD Stand One (MagSafe Charger)\n - https://bit.ly/3LHVzrG\n\n🔗 엘라고 MS3 맥세이프 알루미늄 충전거치대\n - https://link.coupang.com/a/WLBVN\n\n🔗 로랜텍 맥세이프 플레이트 링\n - https://link.coupang.com/a/WLBRm\n\n🔗 STM 맥세이프 링\n - https://link.coupang.com/a/WLBNi\n\n🔗 알루미늄 모니터 받침대 아이맥 스탠드\n옵션 : 2단 / 사이즈(Large) / 두께 5T\n - https://link.coupang.com/a/WLBJD\n\n🔗 몬스터겔 실리콘 양면테이프\n- https://link.coupang.com/a/Uu89c\n* 부착 표면에 따라서 접착력이 달라질 수 있습니다\n* 자꾸 떨어질경우 새걸로 면적을 더 넓게 많이 붙여주세요!\n\n✔ 본인의 방을 소개하는 콘텐츠입니다\n출연신청 - https://bit.ly/3FR46VM\n\n✔ 제가 직접 방문해 예쁘게 꾸며주는 콘텐츠입니다\n출연신청 - https://bit.ly/3zcPs7z\n\n✔ Contact - 비지니스 문의\nEmail : haeyongtv@gmail.com\n\n✔ Instagram - 일상을 보실 수 있습니다!\nhttps://www.instagram.com/devilhaeyong\n\n✔ Website - 데스크셋업 구경하기\nhttp://haeyongsetup.com/\n\n✔ [멤버십 가입] 매월 정기후원하기 - https://www.youtube.com/channel/UCXfFPHbEIw-LlxBQx7JSQsQ/join\n멤버십 혜택, 멤버십 배지, 이모티콘이 추가되었습니다!\n\n🎧 Music\nLivingrooms - Diamonds\nArtlist - https://bit.ly/3uErAXZ (가입시 2개월 추가 무료 혜택)\n\n#맥세이프 #스마트폰거치대 #데스크셋업\n\n00:00 인트로\n01:07 Rollingsquare\n06:35 NOMAD\n09:12 엘라고",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJxZOU0QedM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJxZOU0QedM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJxZOU0QedM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cJxZOU0QedM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cJxZOU0QedM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "해용 HAEYONG",
+        "tags": [
+          "스마트폰",
+          "갤럭시 스마트폰",
+          "아이폰",
+          "아이폰 14",
+          "맥세이프",
+          "맥세이프 무선 충전",
+          "맥세이프 거치대",
+          "스마트폰 거치대",
+          "스마트폰 스탠드",
+          "맥세이프 스탠드",
+          "무선 충전",
+          "NOMAD",
+          "Stand One",
+          "MagSafe Charger",
+          "엘라고",
+          "맥세이프 링",
+          "모니터 받침대"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[내돈내산] 거의 모든 스마트폰 무선 충전하면서 자석으로 공중부양 거치하는 방법!!",
+          "description": "※ 내돈내산 / 해당 영상은 유료 광고나 제품 협찬이 포함되지 않았습니다\n\n✔ 쿠팡 링크를 통해 구매하면 내돈내산 콘텐츠에 큰 도움이 됩니다\n(쿠팡 파트너스 통해 일정액의 수수료를 제공받습니다)\n아무거나 구매하기 (쿠팡) - https://link.coupang.com/a/julWN\n\n🔗 NOMAD Stand One (MagSafe Charger)\n - https://bit.ly/3LHVzrG\n\n🔗 엘라고 MS3 맥세이프 알루미늄 충전거치대\n - https://link.coupang.com/a/WLBVN\n\n🔗 로랜텍 맥세이프 플레이트 링\n - https://link.coupang.com/a/WLBRm\n\n🔗 STM 맥세이프 링\n - https://link.coupang.com/a/WLBNi\n\n🔗 알루미늄 모니터 받침대 아이맥 스탠드\n옵션 : 2단 / 사이즈(Large) / 두께 5T\n - https://link.coupang.com/a/WLBJD\n\n🔗 몬스터겔 실리콘 양면테이프\n- https://link.coupang.com/a/Uu89c\n* 부착 표면에 따라서 접착력이 달라질 수 있습니다\n* 자꾸 떨어질경우 새걸로 면적을 더 넓게 많이 붙여주세요!\n\n✔ 본인의 방을 소개하는 콘텐츠입니다\n출연신청 - https://bit.ly/3FR46VM\n\n✔ 제가 직접 방문해 예쁘게 꾸며주는 콘텐츠입니다\n출연신청 - https://bit.ly/3zcPs7z\n\n✔ Contact - 비지니스 문의\nEmail : haeyongtv@gmail.com\n\n✔ Instagram - 일상을 보실 수 있습니다!\nhttps://www.instagram.com/devilhaeyong\n\n✔ Website - 데스크셋업 구경하기\nhttp://haeyongsetup.com/\n\n✔ [멤버십 가입] 매월 정기후원하기 - https://www.youtube.com/channel/UCXfFPHbEIw-LlxBQx7JSQsQ/join\n멤버십 혜택, 멤버십 배지, 이모티콘이 추가되었습니다!\n\n🎧 Music\nLivingrooms - Diamonds\nArtlist - https://bit.ly/3uErAXZ (가입시 2개월 추가 무료 혜택)\n\n#맥세이프 #스마트폰거치대 #데스크셋업\n\n00:00 인트로\n01:07 Rollingsquare\n06:35 NOMAD\n09:12 엘라고"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1423",
+        "likeCount": "35",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
